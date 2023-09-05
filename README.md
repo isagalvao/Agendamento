@@ -25,7 +25,7 @@ Desenvolvimento de um sistema web para condomínios residenciais que permite aos
 
 -[REPOSITORIO SA04 - CRUD LIVRO COMPLETO](https://github.com/franciscoaiolfi/sa04Senai)
 
--[REPOSITORIO SA06 - AGENTAMENTO ACADEMIA COMPLETO](https://github.com/isagalvao/Agendamento)
+-[REPOSITORIO SA06 - AGENTAMENTO ACADEMIA](https://github.com/isagalvao/Agendamento)
   
 ## 🤝 Colaboradores
 
