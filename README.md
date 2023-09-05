@@ -7,9 +7,7 @@ Desenvolvimento de um sistema web para condomínios residenciais que permite aos
 ### `Processo de criação do projeto:`
 
 - [x] Criação estilo Html;
-- [x] Criação estilo bootstrap;
 - [x] Servidor Tomcat;
-- [x] Servlet e JSP;
 - [x] IDE Eclipse;
 - [x] MySQL;
 - [x] Criação das funcionalidades com Java e JavaScript.
@@ -17,7 +15,6 @@ Desenvolvimento de um sistema web para condomínios residenciais que permite aos
  `O que foi desenvolvido:`
 
 - [x] Tela inicial;
-- [x] Tela de login do usuários;
 - [x] Realizar Agendamento; 
 - [x] Cancelamento de Agendamentos; 
 - [x] Visualização dos Agendamentos;
