@@ -1,6 +1,9 @@
 # Agendamento
 
 Desenvolvimento de um sistema web para condomínios residenciais que permite aos moradores agendar o uso da academia de forma conveniente, além de oferecer recursos para visualizar e gerenciar seus horários com facilidade. Este projeto foi concebido com o objetivo de abordar o desafio proposto pelo Senai, como parte do curso técnico de Desenvolvimento de Sistemas.
+
+<img src="\Tela de agendamento.jpeg" alt="Tela">
+
 ### `Processo de criação do projeto:`
 
 - [x] Criação estilo Html;
